@@ -39,7 +39,7 @@
 
   ## Education
 - Btech (Electronics and communication) Passout July 2025
-  - Rkgit(AKTU) 
+  - Raj Kumar Goel Institute of Technology (AKTU) 
 - Intermediate
   - Patrachar school Delhi
 - Highschool
