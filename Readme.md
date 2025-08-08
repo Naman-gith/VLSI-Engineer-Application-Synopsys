@@ -4,7 +4,7 @@
 
 ## About me
 - I am a fresher seeking internship/Job opportunities in VLSI Domain.
-- I am hardworking, focused, and committed to delivering quality work. 
+- Hardworking, focused, and committed to delivering quality work. 
 - I am eager to contribute my skills while learning from industry experts.
  
 ## Why I am a Good Fit
@@ -22,13 +22,13 @@
 
 ## Sample Projects
 - UART Controller in Verilog – Designed and implemented a UART communication module, verified using SystemVerilog testbenches.
-  - Access link -[https://github.com/evilnaman/Uart_using_verilog]
+  - Access link -[https://github.com/Naman-gith/Uart_using_verilog]
 - Digital Stopwatch – Developed using Verilog, implemented on Eda Playground , and tested in a simulation environment.
-  - Access link -[https://github.com/evilnaman/Stopwatch-using-verilog]
+  - Access link -[https://github.com/Naman-gith/Stopwatch-using-verilog]
 - File Permission Manager – Bash script to view and modify file permissions in Linux.
 
 ## Protocol Knowledge
-- APB [https://github.com/evilnaman/APB_using_Verilog]
+- APB [https://github.com/Naman-gith/APB_using_Verilog]
 - I2c
 
 ## Interest area
